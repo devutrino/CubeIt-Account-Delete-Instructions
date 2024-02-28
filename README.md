@@ -5,5 +5,7 @@ One should note that Devutrino uses Playfab backend for the Cube It! game and ca
 This instructions guarentees that the user data will be cleared from Devutrino's Playfab Account for the corresponding game title.
 
 1- Users should send an email to cubeitgame@gmail.com with subject name being the '##username CubeIt Account Delete Request'
+
 2- They may choose to provide additional feedback for their delete request reason
+
 3- Their account will be deleted from the corresponding Playfab title within 5 work days.
